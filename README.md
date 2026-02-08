@@ -2,25 +2,27 @@
 
 🎓 ECE Student | 💻 Aspiring Full-Stack Developer | 🎨 UI/UX Enthusiast
 
-🌐 Portfolio: lakshitaportfoliowebsite.netlify.app
+🌐 Portfolio: https://lakshitaportfoliowebsite.netlify.app
 
 👋 Hi there!
 
-I’m Lakshita Sah, an Electronics & Communication Engineering student with a strong passion for web development, UI/UX design, and practical problem-solving. I love blending technology + creativity to build meaningful, user-friendly digital experiences.
+I’m Lakshita Sah, an Electronics & Communication Engineering student with a strong passion for web development, UI/UX design, and practical problem-solving.
+
+I love blending technology + creativity to build meaningful, user-friendly digital experiences that solve real-world problems.
 
 Currently, I’m actively learning and building projects using the MERN Stack, while also exploring data visualization and embedded systems.
 
-🚀 What I’m Up To
+🚀 What I’m Currently Working On
 
-🔥 Learning MERN Stack (MongoDB, Express, React, Node.js)
+🔥 Learning MERN Stack (MongoDB, Express.js, React, Node.js)
 
-💡 Building responsive & interactive web projects
+💻 Building responsive & interactive web applications
 
-🎨 Designing clean UI/UX interfaces with Figma
+🎨 Designing clean UI/UX interfaces using Figma
 
-📊 Exploring data insights using Power BI
+📊 Exploring data insights & dashboards with Power BI
 
-🤖 Working with embedded tools & hardware projects
+🤖 Working on embedded tools & hardware-based projects
 
 🪖 Leadership & Activities
 
@@ -30,17 +32,17 @@ Currently, I’m actively learning and building projects using the MERN Stack, w
 
 🏢 TNP Student Coordinator
 
-⚡ Curious, proactive, and always eager to learn
+⚡ Active, curious, and always eager to learn
 
 🛠️ Tech Stack
-💻 Languages
+💻 Programming Languages
 
 HTML • CSS • JavaScript • SQL • C++
 
 🌐 Web Development
 
 React • Node.js • Express.js • MongoDB
-📌 Currently mastering the MERN Stack
+📌 Currently strengthening MERN Stack skills
 
 🎨 UI / UX & Design
 
@@ -64,10 +66,10 @@ GitHub • VS Code • Netlify
 
 🌐 Connect With Me
 
-💼 LinkedIn: lakshita-sah
+💼 LinkedIn: https://www.linkedin.com/in/lakshita-sah-b06b0b283
 
 📧 Email: sahlakshita420@gmail.com
 
-▶️ YouTube: @Sahlakshita
+▶️ YouTube: https://www.youtube.com/@Sahlakshita
 
-📸 Instagram: @sahlakshita_
+📸 Instagram: https://www.instagram.com/sahlakshita_/
