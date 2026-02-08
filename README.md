@@ -1,75 +1,94 @@
-👩‍💻 Lakshita Sah
+# 👩‍💻 Lakshita Sah
 
-🎓 ECE Student | 💻 Aspiring Full-Stack Developer | 🎨 UI/UX Enthusiast
+### 🎓 ECE Student | 💻 Aspiring Full-Stack Developer | 🎨 UI/UX Enthusiast
 
-🌐 Portfolio: https://lakshitaportfoliowebsite.netlify.app
+🌐 **Portfolio:** https://lakshitaportfoliowebsite.netlify.app
 
-👋 Hi there!
+---
 
-I’m Lakshita Sah, an Electronics & Communication Engineering student with a strong passion for web development, UI/UX design, and practical problem-solving.
+## 👋 Hi there!
 
-I love blending technology + creativity to build meaningful, user-friendly digital experiences that solve real-world problems.
+I’m **Lakshita Sah**, an **Electronics & Communication Engineering** student passionate about  
+**web development, UI/UX design, and practical problem-solving**.
 
-Currently, I’m actively learning and building projects using the MERN Stack, while also exploring data visualization and embedded systems.
+I enjoy blending **technology + creativity** to build **user-friendly digital experiences**.
 
-🚀 What I’m Currently Working On
+Currently, I’m **learning and building projects using the MERN Stack**, while also exploring  
+**data visualization** and **embedded systems**.
 
-🔥 Learning MERN Stack (MongoDB, Express.js, React, Node.js)
+---
 
-💻 Building responsive & interactive web applications
+## 🚀 What I’m Currently Working On
 
-🎨 Designing clean UI/UX interfaces using Figma
+- 🔥 Learning **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 💻 Building responsive & interactive web applications
+- 🎨 Designing clean UI/UX with Figma
+- 📊 Creating dashboards with Power BI
+- 🤖 Working on embedded & hardware-based projects
 
-📊 Exploring data insights & dashboards with Power BI
+---
 
-🤖 Working on embedded tools & hardware-based projects
+## 🛠️ Tech Stack
 
-🪖 Leadership & Activities
+### 💻 Languages
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-🪖 NCC Cadet
+---
 
-🧑‍🏫 Class Representative (CR) – 3 Years
+### 🌐 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-🏢 TNP Student Coordinator
+📌 *Currently strengthening MERN Stack*
 
-⚡ Active, curious, and always eager to learn
+---
 
-🛠️ Tech Stack
-💻 Programming Languages
+### 🗄️ Databases & Data
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-HTML • CSS • JavaScript • SQL • C++
+---
 
-🌐 Web Development
+### 🎨 UI / UX & Design
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-React • Node.js • Express.js • MongoDB
-📌 Currently strengthening MERN Stack skills
+---
 
-🎨 UI / UX & Design
+### 🤖 Embedded & Hardware
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
 
-Figma • Wireframing • Prototyping • User-Centered Design
+---
 
-📊 Data & BI
+### 🧰 Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-Power BI • Excel • PostgreSQL
+---
 
-🤖 Embedded & Hardware
+## 🪖 Leadership & Activities
+- 🪖 NCC Cadet  
+- 🧑‍🏫 Class Representative (CR) – 3 Years  
+- 🏢 TNP Student Coordinator  
 
-Arduino IDE • KiCad • Tinkercad
+---
 
-🧰 Tools & Platforms
+## 🎯 Hobbies
+🎭 Mimicry • 🔮 Palm Reading • 💃 Dancing • 🏸 Badminton • 🎲 Carrom
 
-GitHub • VS Code • Netlify
+---
 
-🎯 Hobbies & Interests
-
-🎭 Mimicry | 🔮 Palm Reading | 💃 Dancing | 🏸 Badminton | 🎲 Carrom
-
-🌐 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/lakshita-sah-b06b0b283
-
-📧 Email: sahlakshita420@gmail.com
-
-▶️ YouTube: https://www.youtube.com/@Sahlakshita
-
+## 🌐 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/lakshita-sah-b06b0b283  
+📧 Email: sahlakshita420@gmail.com  
+▶️ YouTube: https://www.youtube.com/@Sahlakshita  
 📸 Instagram: https://www.instagram.com/sahlakshita_/
