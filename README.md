@@ -1,6 +1,7 @@
 # 👩‍💻 Lakshita Sah
 
-### 🎓 ECE Student | 💻 Aspiring Full-Stack Developer | 🎨 UI/UX Enthusiast
+🎓 ECE Student passionate about 💻 Web Development
+🚀 Aspiring Full-Stack Developer | 🎨 UI/UX | ⚙️ C++ | 🗄️ SQL | 📊 Power BI
 
 🌐 **Portfolio:** https://lakshitaportfoliowebsite.netlify.app
 
