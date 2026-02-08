@@ -1,10 +1,6 @@
 # 👩‍💻 Lakshita Sah
 
-###🎓 ECE Student passionate about 💻 Web Development  |🗄️ SQL | 📊 Power BI | 🎨 UI/UX  | ⚙️ C++ |🔧 PCB Design using KiCad | 🔌 Circuit Design using Tinkercad  | 🚀 Aspiring Full-Stack Developer
-
-\
-
-
+### 🎓 ECE Student passionate about 💻 Web Development  |🗄️ SQL | 📊 Power BI | 🎨 UI/UX  | ⚙️ C++ |🔧 PCB Design using KiCad | 🔌 Circuit Design using Tinkercad  | 🚀 Aspiring Full-Stack Developer
 
 🌐 **Portfolio:** https://lakshitaportfoliowebsite.netlify.app
 
